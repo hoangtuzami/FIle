@@ -1,0 +1,21 @@
+.Top {
+    font-size: 32px;
+    text-transform: capitalize;
+    font-style: oblique;
+    color: chartreuse;
+}
+
+p{
+    font-size: 16px;
+    color: brown;
+}
+
+html {
+    background: url(https://daihoc.fpt.edu.vn/wp-content/uploads/2022/02/HCM-scaled.jpeg);
+    background-repeat: no-repeat;
+}
+
+.center {
+    text-align: center;
+}
+
