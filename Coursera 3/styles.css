@@ -1,0 +1,52 @@
+.Top {
+    font-size: 32px;
+    text-transform: uppercase; /* Thay đổi thành uppercase */
+    font-style: italic; /* Thay đổi thành italic */
+    color: #7FFF00; /* Thay đổi thành mã màu chartreuse */
+    background-color: #333; /* Thêm một màu nền cho phần header */
+    padding: 10px; /* Thêm khoảng trắng xung quanh phần header */
+}
+
+.Top ul {
+    list-style-type: none; /* Loại bỏ dấu hiệu mục danh sách */
+    margin: 0;
+    padding: 0;
+}
+
+.Top li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.Top a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.Top a:hover {
+    color: #ffcc00;
+}
+
+p {
+    font-size: 18px; /* Tăng kích thước font chữ */
+    line-height: 1.5; /* Tăng độ dài của dòng chữ */
+    color: #8B4513; /* Thay đổi màu chữ thành mã màu saddlebrown */
+}
+
+html {
+    background: url(https://daihoc.fpt.edu.vn/wp-content/uploads/2022/02/HCM-scaled.jpeg);
+    background-size: cover; /* Chỉnh sửa để nền ảnh phủ toàn bộ */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Giữ ảnh nền cố định khi cuộn trang */
+}
+
+.center {
+    text-align: center;
+    margin-top: 20px; /* Thêm khoảng cách trên cùng */
+}
+
+main {
+    max-width: 800px; /* Giới hạn chiều rộng của phần main */
+    margin: 0 auto; /* Canh giữa phần main */
+    padding: 20px; /* Thêm khoảng trắng xung quanh phần main
